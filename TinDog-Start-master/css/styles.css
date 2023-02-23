@@ -1,0 +1,52 @@
+body{
+    font-family: 'Shantell Sans', cursive;    
+     
+}
+
+#title{
+    background-color: rgb(207, 221, 248);
+}
+.row h1{
+    line-height:1.5;
+    font-size: 3rem;
+    color: darkred;
+}
+.row{
+    padding: 6% 6%;}
+
+.navbar-brand{
+    font-family: 'Shantell Sans', cursive;
+    font-weight: bold;
+    margin-left: 40px; 
+}
+.navbar-item{
+    text-align: center;
+}
+.nav-item{
+    font-size: 30px;
+    margin: 10px;
+    padding: 10px;
+}
+.nav-link{
+    color: aquamarine;
+}
+.btn{
+    margin: 5px;
+    margin-top: 10px;
+}
+.dog{
+    transform: rotate(10deg);   
+    margin: 8%;
+    width: 300px;
+    position: relative;
+    left: 120px;
+}
+#feature{
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(240, 224, 203);
+}
+#icon{
+    padding: 5%;
+    color: red;
+}
